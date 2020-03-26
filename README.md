@@ -1,0 +1,2 @@
+# lord-personal
+Making application
